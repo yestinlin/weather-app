@@ -1,0 +1,12 @@
+.weather-result ul {
+  list-style: none;
+  padding-left: 0;
+}
+.weather-result {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.carousel {
+  min-height: 420px;
+}

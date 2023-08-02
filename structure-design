@@ -1,0 +1,19 @@
+- App
+  - WeatherCard
+    - CityWeather
+      - Temperature
+      - Weather
+      - Meta
+        - Humidity
+        - Wind
+      - Name
+    - OtherCities
+      - City[]
+        - Name
+        - Temperature
+        - WeatherIcon
+    - Forecast
+      - Day
+        - DayOfWeek
+        - WeatherIcon
+        - Temperature
